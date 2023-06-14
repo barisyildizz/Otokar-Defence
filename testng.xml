@@ -13,7 +13,7 @@
 <!--            </class>-->
 <!--        </classes>-->
 <!--    </test>-->
-    <test name="EdgeTest">
+    <test name="ChromeTest">
     <parameter name="browser" value="chrome"/>
     <classes>
         <class name="HomePageTestCases"/>
